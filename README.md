@@ -7,7 +7,7 @@
 ### 💻 SOBRE MI
 
 - 🚀 Soc una persona **bastant activa**, amb moltes **ganes d'aprendre** i d'afrontar nous reptes.
-- ⚙️ M'interessa l'administració de sistemes, xarxes, desenvolupament i ciberseguretat.
+- ⚙️ M'interessa l'administració de sistemes, xarxes i desenvolupament de videojocs.
 
 ---
 
