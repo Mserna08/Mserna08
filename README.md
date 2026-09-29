@@ -4,8 +4,6 @@
   </a>
 </h2>
 
----
-
 ### 💻 SOBRE MI
 
 - 🚀 Soc una persona **bastant activa**, amb moltes **ganes d'aprendre** i d'afrontar nous reptes.
