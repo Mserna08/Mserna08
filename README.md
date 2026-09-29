@@ -1,5 +1,3 @@
-# Hola, Soc Marcos Serna! 👋
-
 <h2 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&width=435&lines=Hola!+Soc+en+Marcos+Serna+👋;Apassionat+dels+sistemes+i+la+tecnologia..." alt="Typing SVG" />
