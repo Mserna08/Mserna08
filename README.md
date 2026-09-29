@@ -28,5 +28,5 @@
 ---
 
 <p align="center">
-  <img src="https://www.reddit.com/r/StardustCrusaders/comments/90fly0/fanart_jotaro_star_platinum/?tl=es-419" width="400" alt="Mi Foto" />
+  <img src="https://i.pinimg.com/originals/d9/ea/08/d9ea082aa1fd8929926076248f841e35.png" width="400" alt="Mi Foto" />
 </p>
