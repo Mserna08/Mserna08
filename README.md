@@ -1,16 +1,32 @@
-# Hola! Soc en Marcos Serna 👋
-### Apassionat dels sistemes, la informàtica i la tecnologia...
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hola!+Soc+en+Marcos+Serna+👋;Apassionat+dels+sistemes+i+la+tecnologia..." alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ### 💻 SOBRE MI
 
-- 🎓 **Estudiant:** Títol de grau mitjà en Sistemes Microinformàtics i Xarxes (SMX).
-- ⚙️ **Tecnologies:** Aprenent **C#** i treballant amb entorns com **Visual Studio**, **Rider** i **Unity**.
-- 🎯 **Objectiu:** Seguir aprofundint en administració de sistemes, xarxes i desenvolupament.
+- 🚀 Soc una persona **bastant activa**, amb moltes **ganes d'aprendre** i d'afrontar nous reptes.
+- ⚙️ M'interessa l'administració de sistemes, xarxes, desenvolupament i ciberseguretat.
+
+---
+
+### 🎓 FORMACIÓ ACADÈMICA
+
+- 🏫 **CFGM en Sistemes Microinformàtics i Xarxes (SMX)** — *Institut Badalona VII*
+- 📚 **Educació Secundària Obligatòria (ESO)** — *IES Julià Minguell*
+
+---
+
+### 📬 CONTACTE
+
+- ✉️ **Correu personal:** [marcosel519@gmail.com](mailto:marcosel519@gmail.com)
+- 🏫 **Correu de l'institut:** [marcos.serna.7ea@itb.cat](mailto:marcos.serna.7ea@itb.cat)
 
 ---
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQYurllGMlOn1KYpmiO5H-AFm8b7KuPl_KgGRKHQ5QIwtPfkV4ihPikqd&s=10" width="400">
+  
 </p>
